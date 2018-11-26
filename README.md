@@ -1,6 +1,7 @@
 # LDAPjs
 
 [!['Build status'][travis_image_url]][travis_page_url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-ldapjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-ldapjs?ref=badge_shield)
 
 [travis_image_url]: https://api.travis-ci.org/mcavage/node-ldapjs.svg
 [travis_page_url]: https://travis-ci.org/mcavage/node-ldapjs
@@ -48,6 +49,9 @@ client on your system:
 ## License
 
 MIT.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-ldapjs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fnode-ldapjs?ref=badge_large)
 
 ## Bugs
 
